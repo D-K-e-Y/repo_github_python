@@ -9,4 +9,4 @@ for el in range(my_str.count(' ') + 1 ):
     else:
         print(f" {num} {my_word [el] [0:10]}")
         num += 1
-#test
+#test#test

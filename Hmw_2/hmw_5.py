@@ -14,4 +14,4 @@ while num != 505:
             my_list.insert(el + 1, num)
     print(f"текущий список - {my_list}")
     digit = int(input("Введите число: "))
-#test
+#test#test
