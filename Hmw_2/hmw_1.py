@@ -3,4 +3,3 @@ for el in range(len(my_list)):
     print(my_list[el])
     print(type(my_list[el]))
     print("-" * 20)
-#test#test#test
