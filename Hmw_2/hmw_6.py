@@ -18,4 +18,4 @@ while True:
         char[n] = int(user_feature) if (n == 'Цена' or n == 'Количество') else user_feature
         analytics[n].append(char[n])
     goods.append((num, char))
-#test#test
+#test#test#test
