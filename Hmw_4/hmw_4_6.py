@@ -19,4 +19,4 @@ print(my_str)
 for i in range(int(user_numb)):
     print(next(new_str))
     time.sleep(1)
-
+#test
