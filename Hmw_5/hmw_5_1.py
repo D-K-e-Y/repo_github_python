@@ -8,4 +8,3 @@ while data:
 result = f.readlines()
 print(result)
 f.close()
-#test
