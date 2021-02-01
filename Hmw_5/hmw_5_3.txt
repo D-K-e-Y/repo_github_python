@@ -1,0 +1,3 @@
+Petrov: 30000
+Vasiliev: 40000
+Doroshev: 15000
