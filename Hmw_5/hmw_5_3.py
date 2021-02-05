@@ -10,4 +10,3 @@ with open('hmw_5_3.txt', 'r') as f:
         str.append(i[1])
     val = sum(map(int, str)) / len(str)
 print(f'Оклад меньше 20000: {min} \nСредняя величина дохода сотрудников: {val}')
-#test

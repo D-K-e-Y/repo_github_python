@@ -6,4 +6,3 @@ with open("hmw_5_2.txt") as f:
         letters = len(line)-1
         print(f'Букв в строке: {line} {letters}')
     print(f'\nКоличество строк: {lines}')
-    #test
