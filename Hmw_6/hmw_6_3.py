@@ -12,3 +12,4 @@ class Position(Worker):
 test_position = Position('Dmitrii', 'Vasiliev', 'Ing.')
 print(test_position.get_full_name())
 print(test_position.get_total_income())
+#test
