@@ -8,3 +8,5 @@ class Road:
         return self.lenght * self.width * self.mass * self.cm
 test_road = Road(100, 1500, 30, 7)
 print(test_road.formula())
+#test
+#test
