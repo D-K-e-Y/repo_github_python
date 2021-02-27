@@ -26,3 +26,4 @@ class Xerox(OfficeEquipment):
 
 p1 = Printer("Canon", "JZ-918", "Black", 1200)
 print(p1)
+###test
